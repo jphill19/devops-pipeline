@@ -1,0 +1,13 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "description": "Devops learning",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "run": "node index.js"
+  }
+}
